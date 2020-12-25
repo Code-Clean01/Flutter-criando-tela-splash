@@ -1,16 +1,9 @@
-# fluttersplash
+# Flutter splash screen
 
-A new Flutter application.
+## In this app I create a simple splash screen to help understand that
 
-## Getting Started
+## Contribuitions
+### This project was developed to help the community, your feedback will be well appreciated. Feel free to contribute
+[Youtube video](https://www.youtube.com/watch?v=C5CR1DKboNM&t=4s)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Linkedin](https://www.linkedin.com/in/ant%C3%B3nio-nicolau-5b7557181/)
